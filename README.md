@@ -1,7 +1,7 @@
-# Welcome to the big bot poker tournament!
 
 ![](./robots.png)
 
+Welcome to the big bot poker tournament!
 In this tournament we will be using [the PyPokerEngine](https://ishikota.github.io/PyPokerEngine/). 
 
 Do not forget to install the library.
