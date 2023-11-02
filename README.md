@@ -1,6 +1,6 @@
 # Welcome to the big bot poker tournament!!!
 
-![alt text](https://github.com/kr0niker/poker/blob/88cdb4ebd081184d3f30b23fa8090b4a110679cf/robots.png)
+![](./robots.png)
 
 In this tournament we will be using [the PyPokerEngine](https://ishikota.github.io/PyPokerEngine/). 
 
