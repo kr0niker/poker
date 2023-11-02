@@ -10,5 +10,5 @@ First, install the library.
 foo@bar:~$ pip install PyPokerEngine
 ```
 
-Create a simple game simulation main.py
+main.py contains a simple simulation function for a game with 10 players, where each starts with 1000 in chips. These are the starting conditions for your bot. Let the best player win!
 
