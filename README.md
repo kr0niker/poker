@@ -1,4 +1,4 @@
-# Welcome to the big bot poker tournament!!!
+# Welcome to the big bot poker tournament!
 
 ![](./robots.png)
 
