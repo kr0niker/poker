@@ -4,7 +4,7 @@
 
 In this tournament we will be using [the PyPokerEngine](https://ishikota.github.io/PyPokerEngine/). 
 
-First, install the library.
+Do not forget to install the library.
 
 ```console
 foo@bar:~$ pip install PyPokerEngine
