@@ -17,7 +17,15 @@ The repository also contains three standard players:
 2. [Random](https://github.com/kr0niker/poker/blob/main/randomplayer.py). You guessed it. You can play with how often they call, fold or raise. You can also think about the gistribution for the raises.
 3. [Honest](https://github.com/kr0niker/poker/blob/main/honestplayer.py). This one is using the <code>estimate_hole_card_win_rate()</code> for MonteCarlo simulation of the outcomes. See, [source](https://github.com/ishikota/PyPokerEngine/blob/master/pypokerengine/utils/card_utils.py) for more details.
 
-You need to develop a bot similar to the ones listed above. We will initiate the game with all the bots of the participants + three honest ones. We will have three runs to determine the winners. Good luck! Let the best player win!
+You need to develop a bot similar to the ones listed above. Here is how we run the final tournament.
+
+1. You submit the bots by Wednesday next week.
+2. The bots are randomly assigned to two starting tables with 2 additional random and 3 fish players.
+3. The tables start with 1000 credits and run for max of 1000 games.
+4. The 2 best bots (in terms of the final amount of chips) on each of the two semi-final tables are chosen to play in the final.
+5. The final is between 4 best of your bots 2 random players and 4 fishes.
+
+
 
 
 
